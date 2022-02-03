@@ -1,0 +1,9 @@
+//abrir a pasta com Git Bash Here
+
+//git staus => para saber se tem arquivo adicionado
+
+// git add . => para add um novo arquivo novo no repositório
+
+//git commit -m "descrição que quiser" => para comitar o arquivo
+
+//git push origin main => para enviar para o repositorio
