@@ -1,4 +1,8 @@
+//clonando repositorio => copiar a Url, criar uma pasta local na máquina
+
 //abrir a pasta com Git Bash Here
+
+//git clone => colar a URL clicando com o botão direito do mouse e clicando em Paste se CRTL V não funcionar
 
 //git staus => para saber se tem arquivo adicionado
 
@@ -7,3 +11,5 @@
 //git commit -m "descrição que quiser" => para comitar o arquivo
 
 //git push origin main => para enviar para o repositorio
+
+//limpando git => CTRL L
