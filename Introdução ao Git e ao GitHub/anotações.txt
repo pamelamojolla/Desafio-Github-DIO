@@ -17,3 +17,9 @@
 //limpando git => CTRL L
 
 //git log => para saber quantos commit você já fez.
+
+//git config user.name => para saber as configurações do seu nome.
+
+//git config user.email => para saber o seu e-mail.
+
+//git config -p => para ter mais detalhes de log / para voltar aos comandando digitar letra Q.
