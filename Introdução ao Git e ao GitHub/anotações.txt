@@ -23,3 +23,8 @@
 //git config user.email => para saber o seu e-mail.
 
 //git config -p => para ter mais detalhes de log / para voltar aos comandando digitar letra Q.
+
+//gitignore => para ignorar um arquivo dentro do seu projeto => dentro da Ide você cria um arquivo com esse nome, 
+dentro dele você coloca o nome desse arquivo, depois abri o terminal da um 
+git status ele vai mostrar os arquivos ignorados, depois você dá o comando de git add .gitignore e em seguida git commit -m "gitigone adicionado"
+em seguida git log para verificar o log.
