@@ -6,9 +6,11 @@
 
 //git clone => colar a URL clicando com o botão direito do mouse e clicando em Paste se CRTL V não funcionar
 
-//git staus => para saber se tem arquivo adicionado
+//git status => para saber se tem arquivo adicionado
 
 // git add . => para add um novo arquivo novo no repositório
+
+// git restore --staged => para excluir um arquivo do stage
 
 //git commit -m "descrição que quiser" => para comitar o arquivo
 
